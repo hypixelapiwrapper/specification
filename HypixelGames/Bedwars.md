@@ -1,5 +1,3 @@
-#Bedwars
-
 ## Overall getters
 ⚫ Coins
 ⚫ Level
@@ -23,22 +21,22 @@
 
 
 ## Classes Finished
-🚧 Solo
-🚧 Doubles
-🚧 3v3v3v3
-🚧 4v4v4v4
-🚧 Core Modes
-🚧 4v4
-🚧 Rush Solo 
-🚧 Rush Doubles
-🚧 Rush 4v4v4v4
-🚧 Ultimate Solo
-🚧 Ultimate Doubles
-🚧 Ultimate 4v4v4v4
-🚧 Lucky Doubles
-🚧 Lucky 4v4v4v4
-🚧 Castle
-🚧 Capture
-🚧 Swap Doubles
-🚧 Swap 4v4v4v4
-🚧 Voidless 4v4v4v4
+🚧 Solo <br>
+🚧 Doubles <br>
+🚧 3v3v3v3 <br>
+🚧 4v4v4v4 <br>
+🚧 Core Modes <br>
+🚧 4v4 <br>
+🚧 Rush Solo  <br>
+🚧 Rush Doubles <br>
+🚧 Rush 4v4v4v4 <br>
+🚧 Ultimate Solo <br>
+🚧 Ultimate Doubles <br>
+🚧 Ultimate 4v4v4v4 <br>
+🚧 Lucky Doubles <br>
+🚧 Lucky 4v4v4v4 <br>
+🚧 Castle <br>
+🚧 Capture <br>
+🚧 Swap Doubles <br>
+🚧 Swap 4v4v4v4 <br>
+🚧 Voidless 4v4v4v4 <br>
