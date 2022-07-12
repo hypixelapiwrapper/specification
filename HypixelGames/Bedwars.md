@@ -1,23 +1,23 @@
 ## Overall getters
-⚫ Coins
-⚫ Level
-⚫ Winstreak
-⚫ Diamonds Collected
-⚫ Emeralds Collected
-⚫ Gold Collected
-⚫ Iron Collected
+⚫ Coins<br>
+⚫ Level<br>
+⚫ Winstreak<br>
+⚫ Diamonds Collected<br>
+⚫ Emeralds Collected<br>
+⚫ Gold Collected<br>
+⚫ Iron Collected<br>
 
 ## Gamemode specific getters
-⚫ Normal Kills
-⚫ Normal Deaths
-⚫ Normal K/D
-⚫ Final Kills
-⚫ Final Deaths
-⚫ Final K/D
-⚫ Wins
-⚫ Losses
-⚫ W/L
-⚫ Beds Broken
+⚫ Normal Kills <br>
+⚫ Normal Deaths<br>
+⚫ Normal K/D<br>
+⚫ Final Kills<br>
+⚫ Final Deaths<br>
+⚫ Final K/D<br>
+⚫ Wins<br>
+⚫ Losses<br>
+⚫ W/L<br>
+⚫ Beds Broken<br>
 
 
 ## Classes Finished
