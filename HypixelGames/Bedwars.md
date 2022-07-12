@@ -2,12 +2,28 @@
 ⚫ Coins<br>
 ⚫ Level<br>
 ⚫ Winstreak<br>
+⚫ Experience<br>
+⚫ Bedwars Box Epics<br>
+⚫ Active Victory Dance<br>
+⚫ Active island topper<br>
+⚫ Active sprays<br>
+⚫ Active death cry<br>
+⚫ Opened chests <br>
+⚫ Opened commons<br>
+⚫ Opened rares<br>
+⚫ Opened epics<br>
+⚫ Opened legendaries<br>
+⚫ christmas boxes<br>
+⚫ fire tick kills<br>
+⚫ lastTourneyad<br>
+
+
+
+## Gamemode specific getters
 ⚫ Diamonds Collected<br>
 ⚫ Emeralds Collected<br>
 ⚫ Gold Collected<br>
 ⚫ Iron Collected<br>
-
-## Gamemode specific getters
 ⚫ Normal Kills <br>
 ⚫ Normal Deaths<br>
 ⚫ Normal K/D<br>
@@ -18,6 +34,14 @@
 ⚫ Losses<br>
 ⚫ W/L<br>
 ⚫ Beds Broken<br>
+⚫ Void Kills<br>
+⚫ Void Final Kills<br>
+⚫ Projectile <br>
+⚫ Items Purchased <br>
+⚫ Fall final deaths<br>
+⚫ Games played<br>
+⚫ fall deaths<br>
+⚫ 
 
 
 ## Classes Finished
