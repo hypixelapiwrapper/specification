@@ -41,7 +41,7 @@
 ⚫ Fall final deaths<br>
 ⚫ Games played<br>
 ⚫ fall deaths<br>
-⚫ 
+
 
 
 ## Classes Finished
