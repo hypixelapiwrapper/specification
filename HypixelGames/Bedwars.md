@@ -14,7 +14,6 @@
 ⚫ Opened epics<br>
 ⚫ Opened legendaries<br>
 ⚫ christmas boxes<br>
-⚫ fire tick kills<br>
 ⚫ lastTourneyad<br>
 
 
@@ -41,6 +40,7 @@
 ⚫ Fall final deaths<br>
 ⚫ Games played<br>
 ⚫ fall deaths<br>
+⚫ fire tick kills<br>
 
 
 
